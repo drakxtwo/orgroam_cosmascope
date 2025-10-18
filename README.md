@@ -3,7 +3,7 @@ Convert org-roam files to a cosmascope for portability.
 
 An experiment firstly in using ChatGPT & secondly to see if it was possible. This is adapted from Kévin Polisano’s obsidian2cosma.py (https://github.com/kevinpolisano/obsidian2cosma) which converts your Obsidian vault to a cosmascope. 
 
-Cosmascope describes itself as a knowledge visualisation tool for knowledge workers and it allows you to create an HTML page which displays much like org-roam-ui or obsidians graph. 
+Cosmascope (https://cosma.arthurperret.fr) describes itself as a knowledge visualisation tool for knowledge workers and it allows you to create an HTML page which displays much like org-roam-ui or obsidians graph. 
 
 Consider this as work in progress and to be improved! There are limitations
  - cosmascope will not display images if linked in your text
