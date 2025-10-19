@@ -11,4 +11,10 @@ Consider this as work in progress and to be improved! There are limitations
    - The following paragraph contains a broken link
           "[[49F6458C-14AA-4C4B-9F6B-7F007E2199F9|emacs again?]]"
 
-I'm sure there will be other issues but for an experiment and a test on a small org-roam data set it worked quite well.
+I'm sure there will be other issues but for an experiment and a test on a small org-roam data set it worked quite well. This is only the first step, you must then follow the steps needed to create the cosmascope.
+
+Example screenshot in org-roam-ui
+![Example screenshot in org-roam-ui](https://github.com/drakxtwo/orgroam_cosmascope/blob/main/2025-10-19_11-24_orgroamui.png)
+
+Converted to cosmascope
+![Converted to cosmascope](https://github.com/drakxtwo/orgroam_cosmascope/blob/main/2025-10-19_11-24_cosmascreen.png)
